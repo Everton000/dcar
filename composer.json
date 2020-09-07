@@ -1,0 +1,16 @@
+{
+    "name": "dcar/erp",
+    "description": "Erp dcar",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Everton Martins",
+            "email": "evertonmartins000@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "5.2.22",
+        "mpdf/mpdf": "~8.0.2"
+    }
+}
